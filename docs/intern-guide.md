@@ -72,6 +72,7 @@ Pushing is the process of uploading your local changes to a remote repository. P
 
 * Use `git push` to push your local changes to a remote repository.
 * Use `git pull` to pull changes from a remote repository.
+* Use `git revert <commit hash>` to undo changes from a specific commit while preserving the commit history.
 
 **Common mistakes:**
 
@@ -82,3 +83,4 @@ Pushing is the process of uploading your local changes to a remote repository. P
 
 * `git remote -v` to view the URLs of your remote repositories.
 * `git fetch` to download changes from a remote repository without merging.
+
